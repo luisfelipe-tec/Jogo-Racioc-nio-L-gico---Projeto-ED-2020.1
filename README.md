@@ -1,3 +1,6 @@
+![2023-05-16-01-13-51_elKq8hKJ](https://github.com/luisfelipe-tec/Jogo-RaciocinioLogico-ED/assets/67664122/e2d240a2-af79-4626-9ef4-f83bb724c7b7)
+
+
 O jogo tem como objetivo estimular o raciocínio com perguntas lógicas e matemáticas. Aplicando no código os conceitos de fila, pilha e lista.
 
 Fila: 
